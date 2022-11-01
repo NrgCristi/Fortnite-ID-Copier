@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fortnite ID Copier", "Fortnite ID Copier.csproj", "{48EAF5CF-E1E2-4264-8C8D-FF8A5B0F863E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48EAF5CF-E1E2-4264-8C8D-FF8A5B0F863E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EAF5CF-E1E2-4264-8C8D-FF8A5B0F863E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EAF5CF-E1E2-4264-8C8D-FF8A5B0F863E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EAF5CF-E1E2-4264-8C8D-FF8A5B0F863E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E47FBB69-77D1-4D56-B296-2026C98973F9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Fortnite ID Copier\obj\Debug\Fortnite ID Copier.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Fortnite ID Copier\obj\Debug\Fortnite_ID_Copier.Form1.resources
+C:\Users\User\source\repos\Fortnite ID Copier\obj\Debug\Fortnite_ID_Copier.Properties.Resources.resources
+C:\Users\User\source\repos\Fortnite ID Copier\obj\Debug\Fortnite ID Copier.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Fortnite ID Copier\obj\Debug\Fortnite ID Copier.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fortnite ID Copier\bin\Debug\Fortnite ID Copier.exe
+C:\Users\User\source\repos\Fortnite ID Copier\bin\Debug\Fortnite ID Copier.pdb
+C:\Users\User\source\repos\Fortnite ID Copier\obj\Debug\Fortnite ID Copier.exe
+C:\Users\User\source\repos\Fortnite ID Copier\obj\Debug\Fortnite ID Copier.pdb
